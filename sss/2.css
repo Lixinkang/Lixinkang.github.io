@@ -6,3 +6,6 @@ h1{display:inline-block;
     float:left;
     margin:0px;
    }
+ul li{
+    list-style: none;
+}
